@@ -1,17 +1,33 @@
-## Hi there 👋
+## Hello 🙂
 
-<!--
-**Logan1234321/Logan1234321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Logan and this is the rough draft of my Resume 📰
 
-Here are some ideas to get you started:
+About Me:
+I am currentley a Computer Science Student 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+  Programming Languages:
+  Python
+  C++
+  HTML
+  CSS
+
+  Productivity:
+  Many of the Google Apps
+  Many of the Microsoft Apps
+
+  Computer Graphics:
+  OpenGL
+
+  Web Developemnt:
+  Flask
+
+  Data Science:
+  Matplotlib
+
+
+What I am Working On Currentley:
+(Future Link To My Capstone Project)
+Finishing My Computer Science Bachelors Degree
 
