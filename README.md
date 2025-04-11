@@ -6,28 +6,27 @@ About Me:
 I am currentley a Computer Science Student 👨‍💻
 
 Skills:
+a. Programming Languages:
+  + Python
+  + C++
+  + HTML
+  + CSS
 
-  Programming Languages:
-  Python
-  C++
-  HTML
-  CSS
+b. Productivity:
+  + Many of the Google Apps
+  + Many of the Microsoft Apps
 
-  Productivity:
-  Many of the Google Apps
-  Many of the Microsoft Apps
+c. Computer Graphics:
+  + OpenGL
 
-  Computer Graphics:
-  OpenGL
+d. Web Developemnt:
+  + Flask
 
-  Web Developemnt:
-  Flask
-
-  Data Science:
-  Matplotlib
+e. Data Science:
+  + Matplotlib
 
 
 What I am Working On Currentley:
-(Future Link To My Capstone Project)
-Finishing My Computer Science Bachelors Degree
++ (Future Link To My Capstone Project)
++ Finishing My Computer Science Bachelors Degree
 
