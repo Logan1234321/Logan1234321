@@ -15,13 +15,15 @@ a. Programming Languages:
   + C++
   + HTML
   + CSS
+  + Raku
 
 b. Productivity:
-  + Many of the Google Apps
-  + Many of the Microsoft Apps
+  + Many of the Google Apps (for example docs, sheets, etc.)
+  + Many of the Microsoft Apps (for example word, excel, etc.)
 
 c. Computer Graphics:
   + OpenGL
+  + PyGame
 
 d. Web Developemnt:
   + Flask
@@ -31,7 +33,7 @@ e. Data Science:
 
 
 What I am Working On Currentley:
-+ (Future Link To My Capstone Project)
++ My Capstone Group Project for My Computer Scince Bachelors Degree
 + Finishing My Computer Science Bachelors Degree
 
 
