@@ -31,3 +31,6 @@ What I am Working On Currentley:
 + (Future Link To My Capstone Project)
 + Finishing My Computer Science Bachelors Degree
 
+Capstone Project Page:
+https://github.com/Logan1234321/Logan1234321/blob/main/Capstone%20Project%20Page
+
