@@ -10,25 +10,25 @@ https://github.com/Logan1234321/Logan1234321/blob/main/About%20Me
 
 Skills:
 
-a. Programming Languages:
+a. Programming Languages: 
   + Python
   + C++
   + HTML
   + CSS
   + Raku
 
-b. Productivity:
+b. Productivity: 
   + Many of the Google Apps (for example docs, sheets, etc.)
   + Many of the Microsoft Apps (for example word, excel, etc.)
 
-c. Computer Graphics:
+c. Computer Graphics: 
   + OpenGL
   + PyGame
 
-d. Web Developemnt:
+d. Web Developemnt: 
   + Flask
 
-e. Data Science:
+e. Data Science: 
   + Matplotlib
 
 
