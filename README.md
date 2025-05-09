@@ -33,7 +33,7 @@ e. Data Science:
 
 
 What I am Working On Currentley:
-+ My Capstone Group Project for My Computer Scince Bachelors Degree
++ My Capstone Group Project for My Computer Science Bachelors Degree
 + Finishing My Computer Science Bachelors Degree
 
 
