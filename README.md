@@ -1,6 +1,10 @@
 ## Hello 🙂
 
-My name is Logan and this is the rough draft of my Resume 📰
+My name is Logan and this is my Resume 📰
+
+Capstone Project Page:
+https://github.com/Logan1234321/Logan1234321/blob/main/Capstone%20Project%20Page
+
 
 About Me:
 I am currentley a Computer Science Student 👨‍💻
@@ -31,6 +35,4 @@ What I am Working On Currentley:
 + (Future Link To My Capstone Project)
 + Finishing My Computer Science Bachelors Degree
 
-Capstone Project Page:
-https://github.com/Logan1234321/Logan1234321/blob/main/Capstone%20Project%20Page
 
