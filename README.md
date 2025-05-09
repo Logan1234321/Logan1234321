@@ -5,9 +5,8 @@ My name is Logan and this is the Home Page for my Resume 📰
 Capstone Project Page:
 https://github.com/Logan1234321/Logan1234321/blob/main/Capstone%20Project%20Page
 
+About Me Page:
 
-About Me:
-I am currentley a Computer Science Student 👨‍💻
 
 Skills:
 
